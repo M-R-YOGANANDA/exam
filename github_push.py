@@ -1,0 +1,1 @@
+print("this repo is created in the local and then it is pushed to remote")
